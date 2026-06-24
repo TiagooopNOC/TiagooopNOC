@@ -11,7 +11,7 @@
 
 ---
 
-## <picture><img src="./assets/spinningball.gif" width="45px"></picture> About me
+## About me
 
 <table>
 <tr>
