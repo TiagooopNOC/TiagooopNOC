@@ -47,3 +47,17 @@
   <img src="https://img.shields.io/badge/Firebase-111?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
   <img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=F05032" />
 </p>
+
+## 📫 Contact
+
+<p align="left">
+  <a href="mailto:tiagonocella@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://www.linkedin.com/in/tiago-nocella-massaferro-3ab422368/?skipRedirect=true">
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://instagram.com/tiago_nocella">
+    <img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
+</p>
