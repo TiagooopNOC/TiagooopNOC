@@ -25,7 +25,7 @@
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="./assets/basketball.gif" width="260px">
+<img src="./assets/basketball1.gif" width="260px">
 
 </td>
 </tr>
