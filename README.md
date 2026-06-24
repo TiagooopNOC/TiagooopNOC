@@ -7,21 +7,29 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
 
-<picture>
-  <img align="right" src="./assets/basketball.gif" width="250px">
-</picture>
+## <picture><img src="./assets/spinningball.gif" width="50px"></picture> About me
 
-<br><br>
+<table>
+<tr>
+<td width="65%" valign="middle">
 
-- :technologist: I’m a **Front-End Developer** focused on building modern and useful web interfaces.
-- :school: I’m currently studying **Computer Engineering** at Universidad de la República.
-- :computer: I work with `React`, `JavaScript`, `Tailwind CSS`, `Firebase` and modern web tools.
-- :rocket: I’m building real projects such as business websites, web apps and e-commerce simulations.
-- :briefcase: I’m developing **N&M DEV.uy**, a web development project focused on helping small businesses improve their online presence.
-- :student: I’m currently learning `Backend`, `Databases` and better software architecture.
-- :nerd_face: Always learning, improving and building new things.
-- :basketball: Outside of coding, I’m a basketball and sports enthusiast.
-<br>
+- 👨‍💻 I’m a **Front-End Developer** focused on building modern and useful web interfaces.
+- 🏫 I’m currently studying **Computer Engineering** at Universidad de la República.
+- 💻 I work with `React`, `JavaScript`, `Tailwind CSS`, `Firebase` and modern web tools.
+- 🚀 I’m building real projects such as business websites, web apps and e-commerce simulations.
+- 💼 I’m developing **N&M DEV.uy**, a web development project focused on helping small businesses improve their online presence.
+- 🧑‍🎓 I’m currently learning `Backend`, `Databases` and better software architecture.
+- 🤓 Always learning, improving and building new things.
+- 🏀 Outside of coding, I’m a basketball and sports enthusiast.
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="./assets/basketball.gif" width="260px">
+
+</td>
+</tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
