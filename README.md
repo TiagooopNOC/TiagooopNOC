@@ -4,7 +4,25 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF7A00&size=25&center=true&vCenter=true&width=700&height=100&lines=Desarrollador+Web+Front-End;Estudiante+de+Ingenieria+en+Computacion;React+%7C+JavaScript+%7C+Tailwind+CSS;Construyendo+soluciones+web+para+negocios;Aprendiendo+Backend+y+Bases+de+Datos" />
   </a>
 </p>
-- 🌱 I’m currently learning **nodejs, databases**
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
+
+<picture>
+  <img align="right" src="./assets/developer.gif" width="250px">
+</picture>
+
+<br><br>
+
+- :technologist: I’m a **Front-End Developer** focused on building modern and useful web interfaces.
+- :school: I’m currently studying **Computer Engineering** at Universidad de la República.
+- :computer: I work with `React`, `JavaScript`, `Tailwind CSS`, `Firebase` and modern web tools.
+- :rocket: I’m building real projects such as business websites, web apps and e-commerce simulations.
+- :briefcase: I’m developing **N&M DEV.uy**, a web development project focused on helping small businesses improve their online presence.
+- :student: I’m currently learning `Backend`, `Databases` and better software architecture.
+- :nerd_face: Always learning, improving and building new things.
+- :link: You can check my projects here on GitHub.
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
