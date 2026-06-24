@@ -8,7 +8,7 @@
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
 
 <picture>
-  <img align="right" src="./assets/developer.gif" width="250px">
+  <img align="right" src="./assets/basketball.gif" width="250px">
 </picture>
 
 <br><br>
@@ -20,8 +20,7 @@
 - :briefcase: I’m developing **N&M DEV.uy**, a web development project focused on helping small businesses improve their online presence.
 - :student: I’m currently learning `Backend`, `Databases` and better software architecture.
 - :nerd_face: Always learning, improving and building new things.
-- :link: You can check my projects here on GitHub.
-
+- :basketball: Outside of coding, I’m a basketball and sports enthusiast.
 <br>
 
 <h3 align="left">Connect with me:</h3>
