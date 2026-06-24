@@ -30,23 +30,16 @@
 </tr>
 </table>
 
+## 🛠️ Technologies & Tools <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="45" height="45" alt="Firebase" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45" height="45" alt="Vite" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" height="45" alt="npm" /> </p>
+
+
 ## 📌 Currently
 
 - 🔭 Working on real web projects for small businesses.
 - 🌱 Learning `Backend`, `Databases`, `Node.js` and software architecture.
 - 💼 Building **N&M DEV.uy**, a web development project focused on business websites and web apps.
 - 🎯 Goal: keep improving as a developer and build useful products for real users.
-## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-111?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
-  <img src="https://img.shields.io/badge/Firebase-111?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
-  <img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=F05032" />
-</p>
 
 ## 📫 Contact
 
